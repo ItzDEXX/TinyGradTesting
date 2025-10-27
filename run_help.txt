@@ -1,0 +1,1 @@
+.\.venv\Scripts\activate.bat  to activate the venv file then runt he python file.
